@@ -3,7 +3,7 @@
 
   <metadata>
     <id>WebApi.Annotations</id>
-    <version>1.0.0.3</version>
+    <version>0.0.0.0</version>
     <title>WebApi Annotations</title>
     <authors>Ivan Samoylenko</authors>
     <description>Adds external annotations for ASP.NET Web API 2 (System.Web.Http.dll assembly)</description>
