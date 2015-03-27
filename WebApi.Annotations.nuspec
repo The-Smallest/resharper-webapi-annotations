@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<package  xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+
+  <metadata>
+    <id>WebApi.Annotations</id>
+    <version>1.0.0.3</version>
+    <title>WebApi Annotations</title>
+    <authors>Ivan Samoylenko</authors>
+    <description>Adds external annotations for ASP.NET Web API 2 (System.Web.Http.dll assembly)</description>
+    <copyright>Ivan Samoylenko</copyright>
+    <projectUrl>https://github.com/The-Smallest/resharper-webapi-annotations</projectUrl>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+
+    <summary>WebApi Annotations</summary>
+    <tags>Annotations WebApi</tags>
+    <language>en-US</language>
+    
+    <releaseNotes>System.Web.Http.ApiController marked with UsedImplicitlyAttribute</releaseNotes>
+    <dependencies>
+      <dependency id="Wave" version="[1.0]" />
+    </dependencies>
+  </metadata>
+
+  <files>
+    <file src="annotations\**\*.xml" target="DotFiles\Extensions\WebApi.Annotations\annotations\" />
+  </files>
+  
+</package>
