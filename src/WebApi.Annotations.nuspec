@@ -16,7 +16,10 @@
     <tags>Annotations WebApi</tags>
     <language>en-US</language>
     
-    <releaseNotes>System.Web.Http.ApiController marked with UsedImplicitlyAttribute</releaseNotes>
+    <releaseNotes>
+      System.Web.Http.ApiController marked with UsedImplicitlyAttribute
+      System.Web.Http.HttpGetAttribute (+7 same attributes) marked as MeansImplicitUseAttribute
+    </releaseNotes>
     <dependencies>
       <dependency id="Wave" version="[1.0]" />
     </dependencies>
