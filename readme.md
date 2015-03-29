@@ -1,5 +1,7 @@
 # ReSharper external annotations plugin for ASP.NET WebApi 2
 
+[Example, explaining everything](wiki)
+
 ### Annotations for _System.Web.Http_ 
 
 Core WebApi functionality is located in _System.Web.Http.dll_ from [Microsoft.AspNet.WebApi.Core Nuget](http://www.nuget.org/packages/Microsoft.AspNet.WebApi.Core/).
