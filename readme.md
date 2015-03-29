@@ -1,6 +1,12 @@
 # ReSharper external annotations plugin for ASP.NET WebApi 2
 
-[Example, explaining everything](wiki)
+Simple example, that explains everything
+
+### Before
+![Code Issues without external annotations](wiki/images/before.png "Before")
+
+### After
+![No Code Issues after](wiki/images/after.png "After")
 
 ### Annotations for _System.Web.Http_ 
 
