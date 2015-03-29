@@ -2,11 +2,11 @@
 
 Simple example, that explains everything
 
-### Before
-![Code Issues without external annotations](wiki/images/before.png "Before")
+#### Before
+![Code Issues without external annotations]https://github.com/The-Smallest/resharper-webapi-annotations/wiki/images/before.png "Before")
 
-### After
-![No Code Issues after](wiki/images/after.png "After")
+#### After
+![No Code Issues after](https://github.com/The-Smallest/resharper-webapi-annotations/wiki/images/after.png "After")
 
 ### Annotations for _System.Web.Http_ 
 
