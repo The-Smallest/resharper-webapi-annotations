@@ -3,7 +3,7 @@
 Simple example, that explains everything
 
 #### Before
-![Code Issues without external annotations]https://github.com/The-Smallest/resharper-webapi-annotations/wiki/images/before.png "Before")
+![Code Issues without external annotations](https://github.com/The-Smallest/resharper-webapi-annotations/wiki/images/before.png "Before")
 
 #### After
 ![No Code Issues after](https://github.com/The-Smallest/resharper-webapi-annotations/wiki/images/after.png "After")
