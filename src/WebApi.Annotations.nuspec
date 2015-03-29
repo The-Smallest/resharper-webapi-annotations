@@ -6,27 +6,23 @@
     <version>0.0.0.0</version>
     <title>WebApi Annotations</title>
     <authors>Ivan Samoylenko</authors>
-    <description>Adds external annotations for ASP.NET Web API 2 (System.Web.Http.dll assembly)</description>
+    <description>Adds external annotations for ASP.NET Web API (System.Web.Http.dll assembly)</description>
     <copyright>Ivan Samoylenko</copyright>
     <projectUrl>https://github.com/The-Smallest/resharper-webapi-annotations</projectUrl>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-
-    <summary>WebApi Annotations</summary>
+    <summary>ASP.NET WebApi Annotations</summary>
     <tags>Annotations WebApi</tags>
     <language>en-US</language>
     
-    <releaseNotes>
-      System.Web.Http.ApiController marked with UsedImplicitlyAttribute
-      System.Web.Http.HttpGetAttribute (+7 same attributes) marked as MeansImplicitUseAttribute
-    </releaseNotes>
+    <releaseNotes>Minor fixes</releaseNotes>
     <dependencies>
       <dependency id="Wave" version="[1.0]" />
     </dependencies>
   </metadata>
 
   <files>
-    <file src="annotations\**\*.xml" target="DotFiles\Extensions\WebApi.Annotations\annotations\" />
+    <file src="*.xml" target="DotFiles\Extensions\WebApi.Annotations\annotations\" />
   </files>
   
 </package>
