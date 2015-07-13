@@ -6,7 +6,9 @@
     <version>0.0.0.0</version>
     <title>WebApi Annotations</title>
     <authors>Ivan Samoylenko</authors>
-    <description>Adds external annotations for ASP.NET Web API (System.Web.Http.dll assembly)</description>
+    <description>Adds external annotations for ASP.NET Web API (System.Web.Http.dll assembly).
+This annotations are also included in Community Community.External.Annotations.
+</description>
     <copyright>Ivan Samoylenko</copyright>
     <projectUrl>https://github.com/The-Smallest/resharper-webapi-annotations</projectUrl>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
@@ -15,9 +17,9 @@
     <tags>Annotations WebApi</tags>
     <language>en-US</language>
     
-    <releaseNotes>Minor fixes</releaseNotes>
+    <releaseNotes>Updated to support Resharper 9.1</releaseNotes>
     <dependencies>
-      <dependency id="Wave" version="[1.0]" />
+      <dependency id="Wave" version="[1.0, 2.0]" />
     </dependencies>
   </metadata>
 
