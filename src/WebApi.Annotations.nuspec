@@ -7,7 +7,7 @@
     <title>WebApi Annotations</title>
     <authors>Ivan Samoylenko</authors>
     <description>Adds external annotations for ASP.NET Web API (System.Web.Http.dll assembly).
-This annotations are also included in Community Community.External.Annotations.
+This annotations are also included in Community.External.Annotations.
 </description>
     <copyright>Ivan Samoylenko</copyright>
     <projectUrl>https://github.com/The-Smallest/resharper-webapi-annotations</projectUrl>
