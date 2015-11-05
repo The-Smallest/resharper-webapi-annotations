@@ -18,7 +18,10 @@ So ReSharper no longer suggests to remove _unused_ WebApi methods.
 
 Also marks `ApiController` with `UsedImplicitlyAttribute(ImplicitUseKindFlags.Access)` to prevent warning _class MyController is never used_ when `MyController` is inherited from `ApiController`.
 
-Tested with Resharper 9.0 and Visual Studio 2013.
+Tested with:
+- Resharper 9.0 and Visual Studio 2013,
+- Resharper 10.0 and Visual Studio 2015.
+
 
 ### Installation note
 - Clean ReSharper project cache _Resharper->Options->Environment->General->Clear Caches_.

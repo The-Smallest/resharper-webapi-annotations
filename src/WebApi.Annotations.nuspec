@@ -17,9 +17,9 @@ This annotations are also included in Community.External.Annotations.
     <tags>Annotations WebApi</tags>
     <language>en-US</language>
     
-    <releaseNotes>Updated to support Resharper 9.2</releaseNotes>
+    <releaseNotes>Updated to support Resharper 10.0</releaseNotes>
     <dependencies>
-      <dependency id="Wave" version="[1.0, 3.0]" />
+      <dependency id="Wave" version="[1.0, 4.0]" />
     </dependencies>
   </metadata>
 
