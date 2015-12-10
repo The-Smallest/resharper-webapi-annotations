@@ -31,6 +31,17 @@
   <member name="T:System.Web.Http.HttpPatchAttribute">
     <attribute ctor="M:JetBrains.Annotations.MeansImplicitUseAttribute.#ctor()" />
   </member>
-
+  <member name="T:System.Web.Http.RouteAttribute">
+    <attribute ctor="M:JetBrains.Annotations.MeansImplicitUseAttribute.#ctor()" />
+  </member>
+  <member name="T:System.Web.Http.Description.ResponseTypeAttribute">
+    <attribute ctor="M:JetBrains.Annotations.MeansImplicitUseAttribute.#ctor()" />
+  </member>
+  <member name="T:System.Web.Http.AuthorizeAttribute">
+    <attribute ctor="M:JetBrains.Annotations.MeansImplicitUseAttribute.#ctor()" />
+  </member>
+  <member name="T:System.Web.Http.ActionNameAttribute">
+    <attribute ctor="M:JetBrains.Annotations.MeansImplicitUseAttribute.#ctor()" />
+  </member>
 
 </assembly>
